@@ -1,5 +1,5 @@
 # simple-ruby-tg-echo-bot
-## Simple ruby telegram echo bot. Long pooling (No need VPS/VDS, SSL. Can run on local computer)
+### Simple ruby telegram echo bot. Long pooling (No need VPS/VDS, SSL. Can run on local computer)
 
 
 You need instaled Ruby and bundle on your computer. ([ruby-lang.org](https://www.ruby-lang.org/en/documentation/installation/) 
