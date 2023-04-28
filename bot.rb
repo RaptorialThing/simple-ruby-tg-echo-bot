@@ -1,6 +1,6 @@
 require 'telegram/bot'
 
-token = '' # @BotFather give this
+token = ''
 
 Telegram.bots_config = {
   default: token,
