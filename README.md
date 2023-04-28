@@ -10,6 +10,7 @@ Also u need gem [rubygems.org](https://guides.rubygems.org/rubygems-basics/) and
 
 git clone https://github.com/RaptorialThing/simple-ruby-tg-echo-bot
 cd simple-ruby-tg-echo-bot
+token = '' # replace telegram token 
 bundle
 ruby bot.rb
 ```
