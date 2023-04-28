@@ -3,8 +3,8 @@
 
 
 You need instaled Ruby and bundle on your computer. ([ruby-lang.org](https://www.ruby-lang.org/en/documentation/installation/) 
-or install rbenv and use it to install,change ruby versions. 
-Also u need gem ([rubygems.org](https://guides.rubygems.org/rubygems-basics/)) and bundler (gem install bundle).)
+or install rbenv and use it to install,change ruby versions. Telegram token [telegram.org](https://core.telegram.org/bots#how-do-i-create-a-bot)
+Also u need gem [rubygems.org](https://guides.rubygems.org/rubygems-basics/) and bundler (gem install bundle).
 
 ```
 
