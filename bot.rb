@@ -13,7 +13,7 @@ Telegram.bots_config = {
 updates = Telegram.bot.get_updates(offset: -1)
 update_id = updates["result"][-1]["update_id"]
 
-while TRUE do
+while true do
     updates = Telegram.bot.get_updates(offset: update_id)
     Telegram.bot == Telegram.bots[:default] # true
     sleep 2
